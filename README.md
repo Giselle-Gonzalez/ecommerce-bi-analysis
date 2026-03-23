@@ -115,7 +115,7 @@ El dataset incluye:
 - Tasa de Cancelación: 0,40%  
 - Ventas Pendientes: $14.985,96  
 - Ingreso Potencial: $102.715,85
-- 
+  
 
 ## Insights Clave
 - Las ventas se mantienen estables a lo largo del año, sin una estacionalidad marcada  
